@@ -1,0 +1,1445 @@
+MIME-Version: 1.0
+X-Document-Type: Worksheet
+Content-Location: file:///C:/ksoet/file0830.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns=3D"http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+  <meta name=3D"ProgId" content=3D"Excel.Sheet">
+  <meta name=3D"Generator" content=3D"WPS Office ET">
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2025-01-04T09:05:07</o:Created>
+     <o:LastAuthor>lenovo</o:LastAuthor>
+     <o:LastSaved>2025-01-04T09:09:36</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:ICV dt:dt=3D"string">30C9D898031E436B97AFD831F124D052_12</o:ICV>
+     <o:KSOProductBuildVer dt:dt=3D"string">1036-12.2.0.19307</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:1,00in 0,75in 1,00in 0,75in;
+	mso-header-margin:0,50in;
+	mso-footer-margin:0,50in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#7F0055;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Consolas";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#000000;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Consolas";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#646464;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Consolas";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font5
+	{color:#0563C1;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font6
+	{color:#954F72;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font7
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font8
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font9
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font10
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font11
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font12
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font13
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font14
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font15
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font16
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font17
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font18
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font21
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font22
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font23
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font24
+	{color:#3F7F5F;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Consolas";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font25
+	{color:#3F7F5F;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Consolas";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font26
+	{color:#2A00FF;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Consolas";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font27
+	{color:#6A3E3E;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Consolas";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font28
+	{color:#0000C0;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Consolas";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font29
+	{color:#000000;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"Consolas";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font30
+	{color:#0000C0;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"Consolas";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"Normal";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_-* \#\,\#\#0\.00_-\;\\-* \#\,\#\#0\.00_-\;_-* \0022-\0022??_-\;_-\@_-";
+	mso-style-name:"Virgule";
+	mso-style-id:3;}
+.style17
+	{mso-number-format:"_-\0022\20AC\0022* \#\,\#\#0\.00_-\;\\-\0022\20AC\0022* \#\,\#\#0\.00_-\;_-\0022\20AC\0022* \\-??_-\;_-\@_-";
+	mso-style-name:"Mon\00E9taire";
+	mso-style-id:4;}
+.style18
+	{mso-number-format:"0%";
+	mso-style-name:"Pourcentage";
+	mso-style-id:5;}
+.style19
+	{mso-number-format:"_-* \#\,\#\#0_-\;\\-* \#\,\#\#0_-\;_-* \0022-\0022_-\;_-\@_-";
+	mso-style-name:"Milliers [0]";
+	mso-style-id:6;}
+.style20
+	{mso-number-format:"_-\0022\20AC\0022* \#\,\#\#0_-\;\\-\0022\20AC\0022* \#\,\#\#0_-\;_-\0022\20AC\0022* \0022-\0022_-\;_-\@_-";
+	mso-style-name:"Mon\00E9taire [0]";
+	mso-style-id:7;}
+.style21
+	{color:#0563C1;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri;
+	mso-style-name:"Lien hypertexte";
+	mso-style-id:8;}
+.style22
+	{color:#954F72;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri;
+	mso-style-name:"Lien hypertexte visit\00E9";
+	mso-style-id:9;}
+.style23
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"Note";}
+.style24
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Avertissement";}
+.style25
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"Titre";}
+.style26
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"CTexte explicatif";}
+.style27
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"Titre 1";}
+.style28
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"Titre 2";}
+.style29
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"Titre 3";}
+.style30
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"Titre 4";}
+.style31
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"Entr\00E9e";}
+.style32
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"Sortie";}
+.style33
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"Calcul";}
+.style34
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"V\00E9rification de cellule";}
+.style35
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"Cellule li\00E9e";}
+.style36
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"Total";}
+.style37
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Satisfaisant";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Insatisfaisant";}
+.style39
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Neutre";}
+.style40
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent1";}
+.style41
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20 % - Accent1";}
+.style42
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40 % - Accent1";}
+.style43
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60 % - Accent1";}
+.style44
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent2";}
+.style45
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20 % - Accent2";}
+.style46
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40 % - Accent2";}
+.style47
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60 % - Accent2";}
+.style48
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent3";}
+.style49
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20 % - Accent3";}
+.style50
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40 % - Accent3";}
+.style51
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60 % - Accent3";}
+.style52
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent4";}
+.style53
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20 % - Accent4";}
+.style54
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40 % - Accent4";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60 % - Accent4";}
+.style56
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent5";}
+.style57
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20 % - Accent5";}
+.style58
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40 % - Accent5";}
+.style59
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60 % - Accent5";}
+.style60
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent6";}
+.style61
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20 % - Accent6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40 % - Accent6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60 % - Accent6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	color:#7F0055;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:Consolas;
+	mso-font-charset:134;}
+.xl67
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:Consolas;
+	mso-font-charset:134;}
+.xl68
+	{mso-style-parent:style0;
+	color:#646464;
+	font-size:10.0pt;
+	font-family:Consolas;
+	mso-font-charset:134;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>algorithme g&#233;n&#233;ration cl&#233; de s&#233;</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>285</x:DefaultRowHeight>
+        <x:StandardWidth>2301</x:StandardWidth>
+        <x:Selected/>
+        <x:TopRowVisible>59</x:TopRowVisible>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>8</x:ActiveCol>
+          <x:ActiveRow>71</x:ActiveRow>
+          <x:RangeSelection>I72</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>10745</x:WindowHeight>
+     <x:WindowWidth>26083</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link=3D"blue" vlink=3D"purple">
+  <table width=3D"1226,36" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D'width:833.00pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width=3D"72,14" span=3D"17" style=3D'width:49,00pt;'/>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl65" height=3D"20,98" width=3D"72,14" style=3D'height:14.25pt;width:49.00pt;' x:str>Bonjour</td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+    <td width=3D"72,14" style=3D'width:49.00pt;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl65" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl66" height=3D"20,98" style=3D'height:14.25pt;' x:str>package<font class=3D"font3"> com.wifakbank.law.checks.bl;</font></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl66" height=3D"20,98" style=3D'height:14.25pt;' x:str>import<font class=3D"font3"> java.math.BigInteger;</font></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl66" height=3D"20,98" style=3D'height:14.25pt;' x:str>import<font class=3D"font3"> java.security.MessageDigest;</font></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl66" height=3D"20,98" style=3D'height:14.25pt;' x:str>import<font class=3D"font3"> java.security.NoSuchAlgorithmException;</font></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl66" height=3D"20,98" style=3D'height:14.25pt;' x:str>import<font class=3D"font3"> org.springframework.stereotype.Service;</font></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl66" height=3D"20,98" style=3D'height:14.25pt;' x:str>import<font class=3D"font3"> java.nio.charset.StandardCharsets;</font></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl68" height=3D"20,98" style=3D'height:14.25pt;' x:str>@Service</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl66" height=3D"20,98" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>public<font class=3D"font3"> </font><font class=3D"font2">class</font><font class=3D"font3"> SecurityKeyService {</font></td>
+    <td colspan=3D"15" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"6" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160; <font class=3D"font2">private</font><font class=3D"font3"> String </font><font class=3D"font28">baseUrl</font><font class=3D"font3"> =3D </font><font class=3D"font26">&quot;https://pecc.tn&quot;</font><font class=3D"font3">;</font></td>
+    <td colspan=3D"11" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"4" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160; <font class=3D"font2">private</font><font class=3D"font3"> String </font><font class=3D"font28">barrement</font><font class=3D"font3"> =3D </font><font class=3D"font26">&quot;1&quot;</font><font class=3D"font3">;</font></td>
+    <td colspan=3D"13" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"4" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160; <font class=3D"font2">private</font><font class=3D"font3"> String </font><font class=3D"font28">accountType</font><font class=3D"font3"> =3D </font><font class=3D"font26">&quot;1&quot;</font><font class=3D"font3">;</font></td>
+    <td colspan=3D"13" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"13" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160; <font class=3D"font2">public</font><font class=3D"font3"> String generateSecurityKey(String </font><font class=3D"font27">chequeNum</font><font class=3D"font3">, String </font><font class=3D"font27">rib</font><font class=3D"font3">, String </font><font class=3D"font27">name</font><font class=3D"font3">, String </font><font class=3D"font27">maxAmount</font><font class=3D"font3">, String </font><font class=3D"font27">validity</font><font class=3D"font3">) {</font></td>
+    <td colspan=3D"4" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>&#160;&#160;&#160;</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"7" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font class=3D"font2">if</font><font class=3D"font3"> (</font><font class=3D"font28">baseUrl</font><font class=3D"font3"> =3D=3D </font><font class=3D"font2">null</font><font class=3D"font3"> || </font><font class=3D"font28">baseUrl</font><font class=3D"font3">.isEmpty() || </font><font class=3D"font28">baseUrl</font><font class=3D"font3">.length() &gt; 15) {</font></td>
+    <td colspan=3D"10" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"12" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">throw</font><font class=3D"font3"> </font><font class=3D"font2">new</font><font class=3D"font3"> IllegalArgumentException(</font><font class=3D"font26">&quot;baseUrl doit &#234;tre une cha&#238;ne de 15 caract&#232;res maximum&quot;</font><font class=3D"font3">);</font></td>
+    <td colspan=3D"5" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; }</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"3" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font24">// Validation </font><font class=3D"font25">du</font><font class=3D"font24"> </font><font class=3D"font25">barrement</font></td>
+    <td colspan=3D"14" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"10" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160; &#160;&#160;<font class=3D"font2">if</font><font class=3D"font3"> (</font><font class=3D"font28">barrement</font><font class=3D"font3"> =3D=3D </font><font class=3D"font2">null</font><font class=3D"font3"> || </font><font class=3D"font28">barrement</font><font class=3D"font3">.length() !=3D 1 || !</font><font class=3D"font28">barrement</font><font class=3D"font3">.matches(</font><font class=3D"font26">&quot;[0-9]&quot;</font><font class=3D"font3">)) {</font></td>
+    <td colspan=3D"7" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"11" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">throw</font><font class=3D"font3"> </font><font class=3D"font2">new</font><font class=3D"font3"> IllegalArgumentException(</font><font class=3D"font26">&quot;barrement doit &#234;tre un entier d'un chiffre&quot;</font><font class=3D"font3">);</font></td>
+    <td colspan=3D"6" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; }</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"6" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font24">// Validation </font><font class=3D"font25">du</font><font class=3D"font24"> chequeNum (7 </font><font class=3D"font25">chiffres</font><font class=3D"font24">)</font></td>
+    <td colspan=3D"11" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"10" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">if</font><font class=3D"font3"> (</font><font class=3D"font27">chequeNum</font><font class=3D"font3"> =3D=3D </font><font class=3D"font2">null</font><font class=3D"font3"> || </font><font class=3D"font27">chequeNum</font><font class=3D"font3">.length() !=3D 7 || !</font><font class=3D"font27">chequeNum</font><font class=3D"font3">.matches(</font><font class=3D"font26">&quot;\\d{7}&quot;</font><font class=3D"font3">)) {</font></td>
+    <td colspan=3D"7" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"11" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">throw</font><font class=3D"font3"> </font><font class=3D"font2">new</font><font class=3D"font3"> IllegalArgumentException(</font><font class=3D"font26">&quot;cheque_num doit &#234;tre une cha&#238;ne de 7 chiffres&quot;</font><font class=3D"font3">);</font></td>
+    <td colspan=3D"6" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; }</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"5" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font24">// Validation </font><font class=3D"font25">du</font><font class=3D"font24"> rib (20 </font><font class=3D"font25">chiffres</font><font class=3D"font24">)</font></td>
+    <td colspan=3D"12" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"8" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">if</font><font class=3D"font3"> (</font><font class=3D"font27">rib</font><font class=3D"font3"> =3D=3D </font><font class=3D"font2">null</font><font class=3D"font3"> || </font><font class=3D"font27">rib</font><font class=3D"font3">.length() !=3D 20 || !</font><font class=3D"font27">rib</font><font class=3D"font3">.matches(</font><font class=3D"font26">&quot;\\d{20}&quot;</font><font class=3D"font3">)) {</font></td>
+    <td colspan=3D"9" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"10" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">throw</font><font class=3D"font3"> </font><font class=3D"font2">new</font><font class=3D"font3"> IllegalArgumentException(</font><font class=3D"font26">&quot;rib doit &#234;tre une cha&#238;ne de 20 chiffres&quot;</font><font class=3D"font3">);</font></td>
+    <td colspan=3D"7" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; }</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"6" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font24">// Validation </font><font class=3D"font25">du</font><font class=3D"font24"> accountType (1 </font><font class=3D"font25">chiffre</font><font class=3D"font24">)</font></td>
+    <td colspan=3D"11" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"11" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">if</font><font class=3D"font3"> (</font><font class=3D"font28">accountType</font><font class=3D"font3"> =3D=3D </font><font class=3D"font2">null</font><font class=3D"font3"> || </font><font class=3D"font28">accountType</font><font class=3D"font3">.length() !=3D 1 || !</font><font class=3D"font28">accountType</font><font class=3D"font3">.matches(</font><font class=3D"font26">&quot;[0-9]&quot;</font><font class=3D"font3">)) {</font></td>
+    <td colspan=3D"6" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"11" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">throw</font><font class=3D"font3"> </font><font class=3D"font2">new</font><font class=3D"font3"> IllegalArgumentException(</font><font class=3D"font26">&quot;accountType doit &#234;tre un entier d'un chiffre&quot;</font><font class=3D"font3">);</font></td>
+    <td colspan=3D"6" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; }</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"9" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font24">// Validation </font><font class=3D"font25">du</font><font class=3D"font24"> name (</font><font class=3D"font25">longueur</font><font class=3D"font24"> variable, </font><font class=3D"font25">mais</font><font class=3D"font24"> </font><font class=3D"font25">sans</font><font class=3D"font24"> </font><font class=3D"font25">espaces</font><font class=3D"font24"> </font><font class=3D"font25">en</font><font class=3D"font24"> </font><font class=3D"font25">d&#233;but</font><font class=3D"font24"> </font><font class=3D"font25">et</font><font class=3D"font24"> fin)</font></td>
+    <td colspan=3D"8" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"3" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">if</font><font class=3D"font3"> (</font><font class=3D"font27">name</font><font class=3D"font3"> =3D=3D </font><font class=3D"font2">null</font><font class=3D"font3">) {</font></td>
+    <td colspan=3D"14" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"9" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">throw</font><font class=3D"font3"> </font><font class=3D"font2">new</font><font class=3D"font3"> IllegalArgumentException(</font><font class=3D"font26">&quot;name ne peut pas &#234;tre null&quot;</font><font class=3D"font3">);</font></td>
+    <td colspan=3D"8" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; }</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"8" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font27">name</font><font class=3D"font3"> =3D </font><font class=3D"font27">name</font><font class=3D"font3">.trim();&#160; </font><font class=3D"font24">// </font><font class=3D"font25">Supprimer</font><font class=3D"font24"> </font><font class=3D"font25">les</font><font class=3D"font24"> </font><font class=3D"font25">espaces</font><font class=3D"font24"> </font><font class=3D"font25">en</font><font class=3D"font24"> </font><font class=3D"font25">d&#233;but</font><font class=3D"font24"> </font><font class=3D"font25">et</font><font class=3D"font24"> fin</font></td>
+    <td colspan=3D"9" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"6" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font24">// Validation </font><font class=3D"font25">du</font><font class=3D"font24"> maxAmount (15 </font><font class=3D"font25">chiffres</font><font class=3D"font24">)</font></td>
+    <td colspan=3D"11" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"10" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">if</font><font class=3D"font3"> (</font><font class=3D"font27">maxAmount</font><font class=3D"font3"> =3D=3D </font><font class=3D"font2">null</font><font class=3D"font3"> || </font><font class=3D"font27">maxAmount</font><font class=3D"font3">.length() !=3D 15 || !</font><font class=3D"font27">maxAmount</font><font class=3D"font3">.matches(</font><font class=3D"font26">&quot;\\d{15}&quot;</font><font class=3D"font3">)) {</font></td>
+    <td colspan=3D"7" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"11" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">throw</font><font class=3D"font3"> </font><font class=3D"font2">new</font><font class=3D"font3"> IllegalArgumentException(</font><font class=3D"font26">&quot;max_amount doit &#234;tre une cha&#238;ne de 15 chiffres&quot;</font><font class=3D"font3">);</font></td>
+    <td colspan=3D"6" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; }</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"5" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font24">// Validation </font><font class=3D"font25">du</font><font class=3D"font24"> validity (8 </font><font class=3D"font25">chiffres</font><font class=3D"font24">)</font></td>
+    <td colspan=3D"12" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"10" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">if</font><font class=3D"font3"> (</font><font class=3D"font27">validity</font><font class=3D"font3"> =3D=3D </font><font class=3D"font2">null</font><font class=3D"font3"> || </font><font class=3D"font27">validity</font><font class=3D"font3">.length() !=3D 8 || !</font><font class=3D"font27">validity</font><font class=3D"font3">.matches(</font><font class=3D"font26">&quot;\\d{8}&quot;</font><font class=3D"font3">)) {</font></td>
+    <td colspan=3D"7" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"11" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">throw</font><font class=3D"font3"> </font><font class=3D"font2">new</font><font class=3D"font3"> IllegalArgumentException(</font><font class=3D"font26">&quot;validity doit &#234;tre une cha&#238;ne de 8 chiffres&quot;</font><font class=3D"font3">);</font></td>
+    <td colspan=3D"6" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; }</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</td>
+    <td colspan=3D"15" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</td>
+    <td colspan=3D"15" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"9" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; String <font class=3D"font27">chaine1</font><font class=3D"font3"> =3D </font><font class=3D"font28">baseUrl</font><font class=3D"font3"> + </font><font class=3D"font28">barrement</font><font class=3D"font3"> + </font><font class=3D"font27">chequeNum</font><font class=3D"font3"> + </font><font class=3D"font27">rib</font><font class=3D"font3"> + </font><font class=3D"font28">accountType</font><font class=3D"font3">;</font></td>
+    <td colspan=3D"8" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"6" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; String <font class=3D"font27">chaine2</font><font class=3D"font3"> =3D </font><font class=3D"font27">name</font><font class=3D"font3"> + </font><font class=3D"font27">maxAmount</font><font class=3D"font3"> + </font><font class=3D"font27">validity</font><font class=3D"font3">;</font></td>
+    <td colspan=3D"11" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">try</font><font class=3D"font3"> {</font></td>
+    <td colspan=3D"15" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"5" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font24">// </font><font class=3D"font25">G&#233;n&#233;ration</font><font class=3D"font24"> </font><font class=3D"font25">des</font><font class=3D"font24"> </font><font class=3D"font25">hachages</font><font class=3D"font24"> SHA-256</font></td>
+    <td colspan=3D"12" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"5" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; String <font class=3D"font27">hash1</font><font class=3D"font3"> =3D sha256(</font><font class=3D"font27">chaine1</font><font class=3D"font3">);</font></td>
+    <td colspan=3D"12" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"5" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; String <font class=3D"font27">hash2</font><font class=3D"font3"> =3D sha256(</font><font class=3D"font27">chaine2</font><font class=3D"font3">);</font></td>
+    <td colspan=3D"12" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"4" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font24">// </font><font class=3D"font25">Traitement</font><font class=3D"font24"> </font><font class=3D"font25">des</font><font class=3D"font24"> blocs</font></td>
+    <td colspan=3D"13" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"5" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; BigInteger[] <font class=3D"font27">blocks</font><font class=3D"font3"> =3D </font><font class=3D"font2">new</font><font class=3D"font3"> BigInteger[8];</font></td>
+    <td colspan=3D"12" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"5" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; String[] <font class=3D"font27">hashes</font><font class=3D"font3"> =3D {</font><font class=3D"font27">hash1</font><font class=3D"font3">, </font><font class=3D"font27">hash2</font><font class=3D"font3">};</font></td>
+    <td colspan=3D"12" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"3" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">int</font><font class=3D"font3"> </font><font class=3D"font27">blockIndex</font><font class=3D"font3"> =3D 0;</font></td>
+    <td colspan=3D"14" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"6" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font24">// </font><font class=3D"font25">D&#233;couper</font><font class=3D"font24"> </font><font class=3D"font25">chaque</font><font class=3D"font24"> hash </font><font class=3D"font25">en</font><font class=3D"font24"> 4 blocs </font><font class=3D"font25">de</font><font class=3D"font24"> 8 </font><font class=3D"font25">caract&#232;res</font></td>
+    <td colspan=3D"11" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"5" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">for</font><font class=3D"font3"> (String </font><font class=3D"font27">hash</font><font class=3D"font3"> : </font><font class=3D"font27">hashes</font><font class=3D"font3">) {</font></td>
+    <td colspan=3D"12" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"5" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">for</font><font class=3D"font3"> (</font><font class=3D"font2">int</font><font class=3D"font3"> </font><font class=3D"font27">i</font><font class=3D"font3"> =3D 0; </font><font class=3D"font27">i</font><font class=3D"font3"> &lt; 4; </font><font class=3D"font27">i</font><font class=3D"font3">++) {</font></td>
+    <td colspan=3D"12" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"7" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; String <font class=3D"font27">blockHex</font><font class=3D"font3"> =3D </font><font class=3D"font27">hash</font><font class=3D"font3">.substring(</font><font class=3D"font27">i</font><font class=3D"font3"> * 8, (</font><font class=3D"font27">i</font><font class=3D"font3"> + 1) * 8);</font></td>
+    <td colspan=3D"10" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"10" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font27">blocks</font><font class=3D"font3">[</font><font class=3D"font27">blockIndex</font><font class=3D"font3">++] =3D </font><font class=3D"font2">new</font><font class=3D"font3"> BigInteger(</font><font class=3D"font27">blockHex</font><font class=3D"font3">, 16); </font><font class=3D"font24">// </font><font class=3D"font25">Convertir</font><font class=3D"font24"> </font><font class=3D"font25">en</font><font class=3D"font24"> BigInteger</font></td>
+    <td colspan=3D"7" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; }</td>
+    <td colspan=3D"15" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; }</td>
+    <td colspan=3D"15" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"8" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font24">// </font><font class=3D"font25">Appliquer</font><font class=3D"font24"> </font><font class=3D"font25">la</font><font class=3D"font24"> rotation </font><font class=3D"font25">circulaire</font><font class=3D"font24"> </font><font class=3D"font25">et</font><font class=3D"font24"> </font><font class=3D"font25">le</font><font class=3D"font24"> </font><font class=3D"font25">m&#233;lange</font><font class=3D"font24"> </font><font class=3D"font25">des</font><font class=3D"font24"> blocs</font></td>
+    <td colspan=3D"9" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"5" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; BigInteger <font class=3D"font27">result</font><font class=3D"font3"> =3D </font><font class=3D"font27">blocks</font><font class=3D"font3">[0];</font></td>
+    <td colspan=3D"12" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"6" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">for</font><font class=3D"font3"> (</font><font class=3D"font2">int</font><font class=3D"font3"> </font><font class=3D"font27">i</font><font class=3D"font3"> =3D 1; </font><font class=3D"font27">i</font><font class=3D"font3"> &lt; </font><font class=3D"font27">blocks</font><font class=3D"font3">.</font><font class=3D"font28">length</font><font class=3D"font3">; </font><font class=3D"font27">i</font><font class=3D"font3">++) {</font></td>
+    <td colspan=3D"11" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"6" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font24">// Rotation &#224; </font><font class=3D"font25">gauche</font><font class=3D"font24"> </font><font class=3D"font25">de</font><font class=3D"font24"> 2 bits </font><font class=3D"font25">sur</font><font class=3D"font24"> BigInteger</font></td>
+    <td colspan=3D"11" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"7" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; BigInteger <font class=3D"font27">rotatedBlock</font><font class=3D"font3"> =3D rotateLeft(</font><font class=3D"font27">blocks</font><font class=3D"font3">[</font><font class=3D"font27">i</font><font class=3D"font3">], 2);</font></td>
+    <td colspan=3D"10" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"9" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font27">result</font><font class=3D"font3"> =3D </font><font class=3D"font27">result</font><font class=3D"font3">.xor(</font><font class=3D"font27">rotatedBlock</font><font class=3D"font3">).multiply(BigInteger.</font><font class=3D"font29">valueOf</font><font class=3D"font3">(0x7fffffffL))</font></td>
+    <td colspan=3D"8" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"11" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; .mod(BigInteger.<font class=3D"font30">TEN</font><font class=3D"font3">.pow(16)); </font><font class=3D"font24">// Assurez-vous </font><font class=3D"font25">que</font><font class=3D"font24"> </font><font class=3D"font25">la</font><font class=3D"font24"> </font><font class=3D"font25">valeur</font><font class=3D"font24"> </font><font class=3D"font25">ne</font><font class=3D"font24"> </font><font class=3D"font25">d&#233;passe</font><font class=3D"font24"> pas 16 </font><font class=3D"font25">chiffres</font></td>
+    <td colspan=3D"6" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; }</td>
+    <td colspan=3D"15" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"5" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font24">// </font><font class=3D"font25">Retourner</font><font class=3D"font24"> </font><font class=3D"font25">la</font><font class=3D"font24"> </font><font class=3D"font25">cha&#238;ne</font><font class=3D"font24"> </font><font class=3D"font25">de</font><font class=3D"font24"> 16 </font><font class=3D"font25">chiffres</font></td>
+    <td colspan=3D"12" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"17" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">return</font><font class=3D"font3"> String.</font><font class=3D"font29">format</font><font class=3D"font3">(</font><font class=3D"font26">&quot;%016d&quot;</font><font class=3D"font3">, </font><font class=3D"font27">result</font><font class=3D"font3">.abs()); </font><font class=3D"font24">// </font><font class=3D"font25">Utiliser</font><font class=3D"font24"> </font><font class=3D"font25">abs</font><font class=3D"font24">() pour </font><font class=3D"font25">&#233;viter</font><font class=3D"font24"> </font><font class=3D"font25">les</font><font class=3D"font24"> </font><font class=3D"font25">valeurs</font><font class=3D"font24"> </font><font class=3D"font25">n&#233;gatives</font><font class=3D"font24"> </font><font class=3D"font25">et</font><font class=3D"font24"> </font><font class=3D"font25">garantir</font><font class=3D"font24"> </font><font class=3D"font25">un</font><font class=3D"font24"> </font><font class=3D"font25">nombre</font><font class=3D"font24"> </font><font class=3D"font25">positif</font><font class=3D"font24"> </font><font class=3D"font25">de</font><font class=3D"font24"> 16 </font><font class=3D"font25">chiffres</font></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"5" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; } <font class=3D"font2">catch</font><font class=3D"font3"> (NoSuchAlgorithmException </font><font class=3D"font27">e</font><font class=3D"font3">) {</font></td>
+    <td colspan=3D"12" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"10" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">throw</font><font class=3D"font3"> </font><font class=3D"font2">new</font><font class=3D"font3"> RuntimeException(</font><font class=3D"font26">&quot;Erreur lors de la g&#233;n&#233;ration du hash SHA-256&quot;</font><font class=3D"font3">, </font><font class=3D"font27">e</font><font class=3D"font3">);</font></td>
+    <td colspan=3D"7" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; }</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>&#160;&#160;&#160; }</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"5" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160; <font class=3D"font24">// </font><font class=3D"font25">Fonction</font><font class=3D"font24"> </font><font class=3D"font25">utilitaire</font><font class=3D"font24"> pour </font><font class=3D"font25">calculer</font><font class=3D"font24"> </font><font class=3D"font25">le</font><font class=3D"font24"> SHA-256</font></td>
+    <td colspan=3D"12" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"6" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160; <font class=3D"font2">private</font><font class=3D"font3"> String sha256(String </font><font class=3D"font27">input</font><font class=3D"font3">) </font><font class=3D"font2">throws</font><font class=3D"font3"> NoSuchAlgorithmException {</font></td>
+    <td colspan=3D"11" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"8" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; MessageDigest <font class=3D"font27">digest</font><font class=3D"font3"> =3D MessageDigest.</font><font class=3D"font29">getInstance</font><font class=3D"font3">(</font><font class=3D"font26">&quot;SHA-256&quot;</font><font class=3D"font3">);</font></td>
+    <td colspan=3D"9" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"9" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">byte</font><font class=3D"font3">[] </font><font class=3D"font27">hashBytes</font><font class=3D"font3"> =3D </font><font class=3D"font27">digest</font><font class=3D"font3">.digest(</font><font class=3D"font27">input</font><font class=3D"font3">.getBytes(StandardCharsets.</font><font class=3D"font30">UTF_8</font><font class=3D"font3">));</font></td>
+    <td colspan=3D"8" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"5" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; StringBuilder <font class=3D"font27">hexString</font><font class=3D"font3"> =3D </font><font class=3D"font2">new</font><font class=3D"font3"> StringBuilder();</font></td>
+    <td colspan=3D"12" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"4" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">for</font><font class=3D"font3"> (</font><font class=3D"font2">byte</font><font class=3D"font3"> </font><font class=3D"font27">b</font><font class=3D"font3"> : </font><font class=3D"font27">hashBytes</font><font class=3D"font3">) {</font></td>
+    <td colspan=3D"13" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"6" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font27">hexString</font><font class=3D"font3">.append(String.</font><font class=3D"font29">format</font><font class=3D"font3">(</font><font class=3D"font26">&quot;%02x&quot;</font><font class=3D"font3">, </font><font class=3D"font27">b</font><font class=3D"font3">));</font></td>
+    <td colspan=3D"11" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; }</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"3" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">return</font><font class=3D"font3"> </font><font class=3D"font27">hexString</font><font class=3D"font3">.toString();</font></td>
+    <td colspan=3D"14" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>&#160;&#160;&#160; }</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"8" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160; <font class=3D"font24">// </font><font class=3D"font25">Fonction</font><font class=3D"font24"> pour </font><font class=3D"font25">effectuer</font><font class=3D"font24"> </font><font class=3D"font25">une</font><font class=3D"font24"> rotation </font><font class=3D"font25">circulaire</font><font class=3D"font24"> &#224; </font><font class=3D"font25">gauche</font><font class=3D"font24"> </font><font class=3D"font25">sur</font><font class=3D"font24"> BigInteger</font></td>
+    <td colspan=3D"9" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"7" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160; <font class=3D"font2">private</font><font class=3D"font3"> BigInteger rotateLeft(BigInteger </font><font class=3D"font27">value</font><font class=3D"font3">, </font><font class=3D"font2">int</font><font class=3D"font3"> </font><font class=3D"font27">bits</font><font class=3D"font3">) {</font></td>
+    <td colspan=3D"10" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"4" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">int</font><font class=3D"font3"> </font><font class=3D"font27">bitLength</font><font class=3D"font3"> =3D </font><font class=3D"font27">value</font><font class=3D"font3">.bitLength();</font></td>
+    <td colspan=3D"13" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"6" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160; &#160;&#160;&#160;&#160;&#160;BigInteger <font class=3D"font27">rotated</font><font class=3D"font3"> =3D </font><font class=3D"font27">value</font><font class=3D"font3">.shiftLeft(</font><font class=3D"font27">bits</font><font class=3D"font3">);</font></td>
+    <td colspan=3D"11" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"9" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font27">rotated</font><font class=3D"font3"> =3D </font><font class=3D"font27">rotated</font><font class=3D"font3">.or(</font><font class=3D"font27">value</font><font class=3D"font3">.shiftRight(</font><font class=3D"font27">bitLength</font><font class=3D"font3"> - </font><font class=3D"font27">bits</font><font class=3D"font3">)); </font><font class=3D"font24">// Rotation </font><font class=3D"font25">circulaire</font></td>
+    <td colspan=3D"8" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" colspan=3D"12" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font class=3D"font2">return</font><font class=3D"font3"> </font><font class=3D"font27">rotated</font><font class=3D"font3">.and(BigInteger.</font><font class=3D"font29">valueOf</font><font class=3D"font3">((1L &lt;&lt; </font><font class=3D"font27">bitLength</font><font class=3D"font3">) - 1)); </font><font class=3D"font24">// </font><font class=3D"font25">Garder</font><font class=3D"font24"> </font><font class=3D"font25">la</font><font class=3D"font24"> </font><font class=3D"font25">taille</font><font class=3D"font24"> </font><font class=3D"font25">des</font><font class=3D"font24"> bits </font><font class=3D"font25">originaux</font></td>
+    <td colspan=3D"5" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>&#160;&#160;&#160; }</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl67" height=3D"20,98" style=3D'height:14.25pt;' x:str>}</td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"20,98" style=3D'height:14.25pt;'>
+    <td class=3D"xl65" height=3D"20,98" style=3D'height:14.25pt;'></td>
+    <td colspan=3D"16" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width=3D"0" style=3D'display:none;'/>
+   <![endif]>
+  </table>
+ </body>
+</html>
