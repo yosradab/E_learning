@@ -1,0 +1,15 @@
+# Visual Studio / .NET
+.vs/
+**/bin/
+**/obj/
+*.user
+
+# Secrets locaux
+appsettings.Development.json
+**/serviceAccountKey*.json
+
+# Fichiers uploadés par les utilisateurs
+E_learning/uploads/*
+!E_learning/uploads/.gitkeep
+E_learning/wwwroot/uploads/*
+!E_learning/wwwroot/uploads/.gitkeep
